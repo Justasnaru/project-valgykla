@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project-valgykla/static/css/main.3599b78a.chunk.css",
+    "main.js": "/project-valgykla/static/js/main.a792ae07.chunk.js",
+    "main.js.map": "/project-valgykla/static/js/main.a792ae07.chunk.js.map",
+    "runtime-main.js": "/project-valgykla/static/js/runtime-main.10c15d29.js",
+    "runtime-main.js.map": "/project-valgykla/static/js/runtime-main.10c15d29.js.map",
+    "static/js/2.848c2e04.chunk.js": "/project-valgykla/static/js/2.848c2e04.chunk.js",
+    "static/js/2.848c2e04.chunk.js.map": "/project-valgykla/static/js/2.848c2e04.chunk.js.map",
+    "index.html": "/project-valgykla/index.html",
+    "static/css/main.3599b78a.chunk.css.map": "/project-valgykla/static/css/main.3599b78a.chunk.css.map",
+    "static/js/2.848c2e04.chunk.js.LICENSE.txt": "/project-valgykla/static/js/2.848c2e04.chunk.js.LICENSE.txt",
+    "static/media/dessert.256c9050.png": "/project-valgykla/static/media/dessert.256c9050.png",
+    "static/media/dishes.7516bce0.png": "/project-valgykla/static/media/dishes.7516bce0.png",
+    "static/media/drinks.51c0889d.png": "/project-valgykla/static/media/drinks.51c0889d.png",
+    "static/media/meals.6a134ddb.jpeg": "/project-valgykla/static/media/meals.6a134ddb.jpeg",
+    "static/media/soup.c140831d.png": "/project-valgykla/static/media/soup.c140831d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10c15d29.js",
+    "static/js/2.848c2e04.chunk.js",
+    "static/css/main.3599b78a.chunk.css",
+    "static/js/main.a792ae07.chunk.js"
+  ]
+}
